@@ -10,3 +10,5 @@ Comes with the following commands:
 - `./cclist` // Lists all records
 - `./ccmatch [query]` // Finds all records with the provided substring
 - `./ccyear [year 1] [year 2]` // Gets all records within the year range
+
+`cctest.c` and a few of the other files contain some notes I took when learning this cool stuff!
